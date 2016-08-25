@@ -1,0 +1,61 @@
+h3{
+	font-family: times;
+	margin: 5px;
+}
+hr{
+	background-color: black;
+	height: 3px;
+	margin-right: 90%;
+	margin-bottom: 30px; 
+}
+p{
+	color: white;
+	position: relative;
+	top: 160px;
+	left: 70px;
+}
+.foto1{
+	background-image: url("../img/profile-1.png");
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+.foto2{
+	background-image: url("../img/profile-2.png");
+	width: 200px;
+	height:200px;
+	float: left;
+	margin-left: 5px;	
+}
+.foto3{
+	background-image: url("../img/profile-3.png");
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin-left: 5px;
+}
+.foto4{
+	background-image: url("../img/profile-4.png");
+	width: 200px;
+	height: 200px;
+	float: left; 
+	clear:left;
+	margin-top: 5px;
+	margin-left: 0;
+}
+.foto5{
+	background-image: url("../img/profile-5.png");
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin-left: 5px;
+	margin-top: 5px;
+}
+.foto6{
+	background-image: url("../img/profile-6.png");
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin-left: 5px;
+	margin-top: 5px;
+}
